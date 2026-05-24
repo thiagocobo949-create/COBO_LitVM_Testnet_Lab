@@ -1,14 +1,9 @@
 # SECURITY
 
-## Regras obrigatórias
-
-- Nunca usar carteira principal.
-- Nunca usar dinheiro real.
-- Nunca inserir seed phrase em site nenhum.
-- Nunca comprar token LitVM, COBO ou qualquer token suspeito.
-- Só confirmar transações na LitVM LiteForge Testnet.
-- Só aceitar taxas em zkLTC.
-- Nunca usar Max sem análise.
-- Salvar hashes e prints sem expor dados sensíveis.
-
-COBO é um token experimental de testnet, sem valor financeiro.
+- Use a dedicated testnet wallet only.
+- Never use real funds.
+- Never share seed phrases or private keys.
+- Never pay for zkLTC or COBO.
+- COBO has zero monetary value.
+- COBO is not an official LitVM token.
+- This lab is not an airdrop, reward, investment project, or official LitVM product.
